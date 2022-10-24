@@ -2,7 +2,7 @@
   <img src="./ezgif-2-d7c175b732.gif" />
   <h4 align="center"> 
   <img width="200" src="https://avatars.githubusercontent.com/u/102420760?s=400&u=8f417acda2a565d04d588349eeb2ad04b2ff9c9a&v=4" /> <br /> <br />
-  <a href="https://www.linkedin.com/in/gerard-marquina-rubio">
+  <a href="https://www.linkedin.com/in/sebastian-siclari-430228162/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br /><br />
