@@ -7,9 +7,9 @@
   </a>
   <br /><br />
   💻 Software Engineer <br /> 
-  📍 Born in Rome, living in Berlin <br /> 
+  📍 Born in Rome, living in Miami <br /> 
   🌐 English, Italian, French <br />
-  👨🏻‍💻 2 Years of Work Experience <br />
+  👨🏻‍💻 4 Years of Work Experience <br />
   🎓 Business Administration & Economics (Argyros Business School, Chapman University) <br />
   🎓 Master in Data Science (Simplilearn, Remote) <br />
   🎓 Software Engineering Immersive (Codeworks, Berlin) <br />
@@ -23,6 +23,7 @@
   </p>
   <h3 align="center">Frontend</h3>
   <p align="center">
+    
   <img src="https://img.shields.io/badge/-react-60DBFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/html5-cf5533?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-tailwind-00B8D5?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -32,6 +33,7 @@
   <h3 align="center">Backend</h3>
   <p align="center">
   <img src="https://img.shields.io/badge/node.js-87bf01?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white" alt="NestJS Badge">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/koa-eaeaea?style=for-the-badge&logo=koa&logoColor=black">
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
