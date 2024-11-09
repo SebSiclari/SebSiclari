@@ -10,7 +10,7 @@
   📍 Born in Rome, living in Miami <br /> 
   🌐 English, Italian, French <br />
   👨🏻‍💻 4 Years of Work Experience <br />
-  🎓 Business Administration & Economics (Argyros Business School, Chapman University) <br />
+  🎓 Master in Software Engineering (College Of Engineering, Boston University) <br />
   🎓 Master in Data Science (Simplilearn, Remote) <br />
   🎓 Software Engineering Immersive (Codeworks, Berlin) <br />
   </h4>
